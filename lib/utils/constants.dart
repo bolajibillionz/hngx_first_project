@@ -7,6 +7,7 @@ class AppImages {
 class AppTexts {
   static const String welcome = 'Welcome';
   static const String slackName = 'Slack Name';
+  static const String title = 'My GitHub Profile';
   static const String myName = 'Adeladan Bolaji';
   static const String openGit = 'Open Github';
   static const String gitHubUrl = 'https://github.com/bolajibillionz';

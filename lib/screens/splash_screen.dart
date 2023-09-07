@@ -20,12 +20,14 @@ class _SplashScreenState extends State<SplashScreen> {
   }
 
   void navigate() {
-    Future.delayed(const Duration(seconds: 5), () {
-      Navigator.push(
-        context,
-        MaterialPageRoute(builder: (context) => const MainScreen()),
-      );
-    });
+    if (mounted) {
+      Future.delayed(const Duration(seconds: 5), () {
+        Navigator.pushReplacement(
+          context,
+          MaterialPageRoute(builder: (context) => const MainScreen()),
+        );
+      });
+    }
   }
 
   @override
