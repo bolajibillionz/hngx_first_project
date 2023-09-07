@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:hngx_first_project/utils/reuseables/custom_texts.dart';
 import 'package:hngx_first_project/utils/size_config.dart';
 
-class BuildGeneralButton extends StatelessWidget {
-  const BuildGeneralButton({
+class BuildCustomButton extends StatelessWidget {
+  const BuildCustomButton({
     super.key,
     required this.onPressed,
     required this.buttonText,
