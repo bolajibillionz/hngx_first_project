@@ -4,14 +4,18 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is the first project given by HNGx, I used the following libraries
 
-A few resources to get you started if this is your first Flutter project:
+Google font for the Inter font family.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Device preview to test the responsiveness of the application.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter inAppWebView for webview.
+
+I used MediaQuery for the implementation of responsiveness.
+
+The app has only three pages, the splash screen, the main page and the Github profile page.
+
+
+
 # hngx_first_project
