@@ -16,6 +16,8 @@ I used MediaQuery for the implementation of responsiveness.
 
 The app has only three pages, the splash screen, the main page and the Github profile page.
 
+Appetize.io link
 
+https://appetize.io/embed/wytn2na6rvz3jkgqinwoqjok2u
 
 # hngx_first_project
